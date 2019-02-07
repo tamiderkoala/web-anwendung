@@ -1,0 +1,83 @@
+.jumbotron {
+    background-color: #f8fafc;
+}
+#background{
+    background-image: url("/storage/cover_images/background.jpg");
+    background-size: 100%;
+    background-position: 10%;
+    height: 400px;
+}
+
+#background h1{
+    text-align: center;
+    margin-top: -41px;
+    font-family: "Just Me Again Down Here", cursive;
+    font-size: 81px;
+}
+
+#background p{
+    text-align: center;
+    padding-top: 220px;
+    font-size: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #81aa00;
+    border-color: #81aa00;
+    margin: 10px;
+    float: left;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #81aa00;
+    border-color: #81aa00;
+}
+
+.btn-outline-primary {
+    color: #81aa00;
+    border-color: #81aa00;
+    margin: 10px;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #81aa00;
+    border-color: #81aa00;
+  }
+
+.btn-success {
+    color: #fff;
+    background-color: #81aa00;
+    border-color: #81aa00;
+    margin: 10px;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #81aa00;
+    border-color: #81aa00;
+}
+
+.btn-danger {
+    margin: 10px;
+}
+
+
+a {
+    color: #81aa00;
+}
+
+a:hover {
+    color: #4a7900;
+    text-decoration: none
+  }
+
+
+
+
